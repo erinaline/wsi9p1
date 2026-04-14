@@ -1,4 +1,1 @@
-<?php
-echo "koneksi berhasil"
-
-<?
+make connection to database
